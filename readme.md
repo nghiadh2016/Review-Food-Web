@@ -19,7 +19,7 @@
 - Khởi động xampp
 - Chạy localhost/phpmyadmin tạo database và thêm các bảng có sẵn từ file database trong project.
 - Xem kết quả
-## About Laravel
+
 ## Danh sách nhóm
 #### Nguyễn Đức Tuấn
 #### Nguyễn Đức Hoàng
